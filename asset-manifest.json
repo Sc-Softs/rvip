@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gh/Sc-Softs/rvip@latest/static/css/main.43149b0d.chunk.css",
+    "main.js": "/gh/Sc-Softs/rvip@latest/static/js/main.92524966.chunk.js",
+    "main.js.map": "/gh/Sc-Softs/rvip@latest/static/js/main.92524966.chunk.js.map",
+    "runtime-main.js": "/gh/Sc-Softs/rvip@latest/static/js/runtime-main.1c721183.js",
+    "runtime-main.js.map": "/gh/Sc-Softs/rvip@latest/static/js/runtime-main.1c721183.js.map",
+    "static/js/2.d14280ab.chunk.js": "/gh/Sc-Softs/rvip@latest/static/js/2.d14280ab.chunk.js",
+    "static/js/2.d14280ab.chunk.js.map": "/gh/Sc-Softs/rvip@latest/static/js/2.d14280ab.chunk.js.map",
+    "index.html": "/gh/Sc-Softs/rvip@latest/index.html",
+    "precache-manifest.1e1d3063eeaefed3fe237df3fdc33906.js": "/gh/Sc-Softs/rvip@latest/precache-manifest.1e1d3063eeaefed3fe237df3fdc33906.js",
+    "service-worker.js": "/gh/Sc-Softs/rvip@latest/service-worker.js",
+    "static/css/main.43149b0d.chunk.css.map": "/gh/Sc-Softs/rvip@latest/static/css/main.43149b0d.chunk.css.map",
+    "static/js/2.d14280ab.chunk.js.LICENSE.txt": "/gh/Sc-Softs/rvip@latest/static/js/2.d14280ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c721183.js",
+    "static/js/2.d14280ab.chunk.js",
+    "static/css/main.43149b0d.chunk.css",
+    "static/js/main.92524966.chunk.js"
+  ]
+}
