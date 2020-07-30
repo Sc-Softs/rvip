@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/gh/Sc-Softs/rvip@latest/static/css/main.43149b0d.chunk.css",
-    "main.js": "/gh/Sc-Softs/rvip@latest/static/js/main.92524966.chunk.js",
-    "main.js.map": "/gh/Sc-Softs/rvip@latest/static/js/main.92524966.chunk.js.map",
-    "runtime-main.js": "/gh/Sc-Softs/rvip@latest/static/js/runtime-main.1c721183.js",
-    "runtime-main.js.map": "/gh/Sc-Softs/rvip@latest/static/js/runtime-main.1c721183.js.map",
-    "static/js/2.d14280ab.chunk.js": "/gh/Sc-Softs/rvip@latest/static/js/2.d14280ab.chunk.js",
-    "static/js/2.d14280ab.chunk.js.map": "/gh/Sc-Softs/rvip@latest/static/js/2.d14280ab.chunk.js.map",
-    "index.html": "/gh/Sc-Softs/rvip@latest/index.html",
-    "precache-manifest.1e1d3063eeaefed3fe237df3fdc33906.js": "/gh/Sc-Softs/rvip@latest/precache-manifest.1e1d3063eeaefed3fe237df3fdc33906.js",
-    "service-worker.js": "/gh/Sc-Softs/rvip@latest/service-worker.js",
-    "static/css/main.43149b0d.chunk.css.map": "/gh/Sc-Softs/rvip@latest/static/css/main.43149b0d.chunk.css.map",
-    "static/js/2.d14280ab.chunk.js.LICENSE.txt": "/gh/Sc-Softs/rvip@latest/static/js/2.d14280ab.chunk.js.LICENSE.txt"
+    "main.css": "https://cdn.jsdelivr.net/gh/Sc-Softs/rvip@latest/static/css/main.a53cb082.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/Sc-Softs/rvip@latest/static/js/main.cef6426d.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/Sc-Softs/rvip@latest/static/js/main.cef6426d.chunk.js.map",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/Sc-Softs/rvip@latest/static/js/runtime-main.ec22fc51.js",
+    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/Sc-Softs/rvip@latest/static/js/runtime-main.ec22fc51.js.map",
+    "static/js/2.d14280ab.chunk.js": "https://cdn.jsdelivr.net/gh/Sc-Softs/rvip@latest/static/js/2.d14280ab.chunk.js",
+    "static/js/2.d14280ab.chunk.js.map": "https://cdn.jsdelivr.net/gh/Sc-Softs/rvip@latest/static/js/2.d14280ab.chunk.js.map",
+    "index.html": "https://cdn.jsdelivr.net/gh/Sc-Softs/rvip@latest/index.html",
+    "precache-manifest.e2bae7b10e42589b1dd7fdb0e2514695.js": "https://cdn.jsdelivr.net/gh/Sc-Softs/rvip@latest/precache-manifest.e2bae7b10e42589b1dd7fdb0e2514695.js",
+    "service-worker.js": "https://cdn.jsdelivr.net/gh/Sc-Softs/rvip@latest/service-worker.js",
+    "static/css/main.a53cb082.chunk.css.map": "https://cdn.jsdelivr.net/gh/Sc-Softs/rvip@latest/static/css/main.a53cb082.chunk.css.map",
+    "static/js/2.d14280ab.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/Sc-Softs/rvip@latest/static/js/2.d14280ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c721183.js",
+    "static/js/runtime-main.ec22fc51.js",
     "static/js/2.d14280ab.chunk.js",
-    "static/css/main.43149b0d.chunk.css",
-    "static/js/main.92524966.chunk.js"
+    "static/css/main.a53cb082.chunk.css",
+    "static/js/main.cef6426d.chunk.js"
   ]
 }
